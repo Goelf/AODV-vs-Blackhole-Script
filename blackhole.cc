@@ -11,10 +11,6 @@
  * 
  * Each node is in the range of its immediate adjacent.The number of nodes by default is 25
  * 
- * Output of this file:
- * 1. Generates blackhole.routes file for routing table information and
- * 2. blackhole_aodv.xml file for viewing animation in NetAnim.
- * 
  */
 
 #include "ns3/core-module.h"
